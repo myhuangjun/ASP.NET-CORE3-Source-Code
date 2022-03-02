@@ -1,0 +1,16 @@
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.exe
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.deps.json
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.runtimeconfig.json
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.runtimeconfig.dev.json
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.dll
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\ref\1.1.2.helloword.dll
+E:\NET CORE 3 Source Code\1.1.2.helloword\bin\Debug\net5.0\1.1.2.helloword.pdb
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.csproj.AssemblyReference.cache
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.AssemblyInfoInputs.cache
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.AssemblyInfo.cs
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.csproj.CoreCompileInputs.cache
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.dll
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\ref\1.1.2.helloword.dll
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.pdb
+E:\NET CORE 3 Source Code\1.1.2.helloword\obj\Debug\net5.0\1.1.2.helloword.genruntimeconfig.cache
