@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Http;
 using System;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace _1._1._3.helloword
 {
@@ -21,10 +22,27 @@ namespace _1._1._3.helloword
             //    )
             // ).Build().Run();
             //ConfigureWebHostDefaults方式
-            Host.CreateDefaultBuilder().ConfigureWebHostDefaults(webHostBuild =>
-            {
-                webHostBuild.Configure(app => app.Run(context => context.Response.WriteAsync("Hello Word")));
-            }).Build().Run();
+            //Host.CreateDefaultBuilder().ConfigureWebHostDefaults(webHostBuild =>
+            //{
+            //    webHostBuild.Configure(app => app.Run(context => context.Response.WriteAsync("Hello Word")));
+            //}).Build().Run();
+
+            //MVC方式
+            //Host.CreateDefaultBuilder()
+            //    .ConfigureWebHostDefaults(webBuilder => webBuilder.
+            //    ConfigureServices(service => service.
+            //    AddRouting()
+            //    .AddControllersWithViews()).
+            //    Configure(app => app.UseRouting().UseEndpoints(endpoint => endpoint.MapControllers())))
+            //    .Build().
+            //    Run();
+
+            //Startup.cs方式
+            Host.CreateDefaultBuilder().ConfigureWebHostDefaults(
+                webBuilder => webBuilder.UseStartup<Startup>())
+                .Build()
+                .Run();
         }
+
     }
 }
